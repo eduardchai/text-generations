@@ -1,0 +1,1 @@
+{"embed_size": 64, "hidden_size": 128, "num_layers": 2, "loss_func": "nn.CrossEntropyLoss", "learning_rate": 0.03, "optimizer": "optim.Adam", "batch_size": 32}
